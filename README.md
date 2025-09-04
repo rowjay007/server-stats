@@ -6,6 +6,8 @@
 
 A comprehensive collection of Bash scripts for monitoring and reporting essential server performance metrics on Linux and Unix-like systems.
 
+> 🎯 **Project Source:** [Roadmap.sh Server Stats Project](https://roadmap.sh/projects/server-stats)
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
@@ -78,8 +80,8 @@ This project provides two powerful server monitoring scripts designed to analyze
 
 ### Quick Setup
 ```bash
-# Clone or download the scripts
-git clone <your-repository-url>
+# Clone or download the scripts from the roadmap.sh project
+# Project URL: https://roadmap.sh/projects/server-stats
 cd server-stats
 
 # Make scripts executable
@@ -94,8 +96,9 @@ chmod +x server-stats-linux.sh
 ### Manual Installation
 ```bash
 # Download individual scripts
-wget <script-url>/server-stats.sh
-wget <script-url>/server-stats-linux.sh
+# From project: https://roadmap.sh/projects/server-stats
+wget [your-repo-url]/server-stats.sh
+wget [your-repo-url]/server-stats-linux.sh
 
 # Set permissions
 chmod +x *.sh
@@ -326,7 +329,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For issues, questions, or contributions:
 - **Author:** Rowjay
-- **Repository:** [Your Repository URL]
+- **Project:** [Roadmap.sh Server Stats](https://roadmap.sh/projects/server-stats)
 - **Documentation:** This README file
 
 ---
